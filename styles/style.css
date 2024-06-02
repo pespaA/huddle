@@ -137,6 +137,7 @@ main{
     }
     .flex__dir--rr{
         flex-direction: row-reverse;
+        gap: 2rem;
     }
     
     .section__text {
